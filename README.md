@@ -40,9 +40,9 @@ if we lose track of them. </li>
 </ol>
 
 
-<p><img src="detected.png" alt="Detection" style="width:400px;height:350px;"> 
-<img src="track.png" alt="Tracking" style="width:400px;height:350px;"> 
-<img src="kalman.png" alt="Kalman Filter" style="width:400px;height:350px;"> </p>
+<p><img src="detected.png" alt="Detection" style="width:50px;height:50px;"> 
+<img src="track.png" alt="Tracking" style="width:50px;height:50px;"> 
+<img src="kalman.png" alt="Kalman Filter" style="width:50px;height:50px;"> </p>
 <hr>
 <h2>Experiments</h2>
 <p>For the "bat" and "cell" dataset, we have used our own detection pipeline. To pre processe the data we applied background substraction,morphology(erosion and dilation).
