@@ -52,8 +52,8 @@ The tracking results for both dataset are shown below.</p>
 
 
 
- <a href="https://www.youtube.com/embed/G09bWMv4SpA">Bats Video</a> 
- <a href="https://www.youtube.com/embed/lXuIId4IkRc">Cell Video</a> 
+ <a href="https://www.youtube.com/embed/G09bWMv4SpA">Bats Video 1</a> 
+ <a href="https://www.youtube.com/embed/lXuIId4IkRc">Bat Video 2</a> 
 
 
 <hr>
