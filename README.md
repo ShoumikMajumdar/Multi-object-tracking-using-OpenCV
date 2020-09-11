@@ -6,4 +6,4 @@ and the Hungarian algorithm for data association.
 The script for tracking bats is bats.py
 The script for tracking cell divisions is cells.py
 
-The data can be found in the BatImages and CellImages folders
+The data can be found in the BatImages and Cell Images folders
