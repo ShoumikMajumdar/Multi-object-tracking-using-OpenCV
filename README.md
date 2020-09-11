@@ -39,10 +39,6 @@ if we lose track of them. </li>
 <li> Repeat such steps all the way through the last frame. </li>
 </ol>
 
-
-<p><img src="detected.png" alt="Detection" style="width:50px;height:50px;"> 
-<img src="track.png" alt="Tracking" style="width:50px;height:50px;"> 
-<img src="kalman.png" alt="Kalman Filter" style="width:50px;height:50px;"> </p>
 <hr>
 <h2>Experiments</h2>
 <p>For the "bat" and "cell" dataset, we have used our own detection pipeline. To pre processe the data we applied background substraction,morphology(erosion and dilation).
@@ -55,14 +51,9 @@ To calculate the centroids of the bats and cells we are using moments. In subseq
 The tracking results for both dataset are shown below.</p>
 
 
-<div class="videoresult">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G09bWMv4SpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
-<div class="videoresult">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lXuIId4IkRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+ <a href="https://www.youtube.com/embed/G09bWMv4SpA">Bats Video</a> 
+ <a href="https://www.youtube.com/embed/lXuIId4IkRc">Cell Video</a> 
 
 
 <hr>
