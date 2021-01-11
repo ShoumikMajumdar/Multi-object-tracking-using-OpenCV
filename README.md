@@ -3,9 +3,6 @@
 
 <html>
 <body data-gr-c-s-loaded="true">
-Shoumik Majumdar <br>
-Collaborator : Tushar Sharma<br>
-</p>
 
 <div class="main-body">
 <hr>
